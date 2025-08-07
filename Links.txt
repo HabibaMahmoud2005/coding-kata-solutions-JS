@@ -1,0 +1,7 @@
+Here you can find the links related to the problems, the file will be updated continuously.
+1) Binary Addition [7 kyu] https://www.codewars.com/kata/551f37452ff852b7bd000139
+2) You're a square! [7 kyu] https://www.codewars.com/kata/54c27a33fb7da0db0100040e
+3) Convert string to camel case [6kyu] https://www.codewars.com/kata/517abf86da9663f1d2000003
+4) Multiples of 3 or 5 [6kyu] https://www.codewars.com/kata/514b92a657cdc65150000006
+5) Counting Duplicates [6kyu] https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
+6) Stop gninnipS My sdroW! [6kyu] https://www.codewars.com/kata/5264d2b162488dc400000001
