@@ -5,3 +5,4 @@ Here you can find the links related to the problems, the file will be updated co
 4) Multiples of 3 or 5 [6kyu] https://www.codewars.com/kata/514b92a657cdc65150000006
 5) Counting Duplicates [6kyu] https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
 6) Stop gninnipS My sdroW! [6kyu] https://www.codewars.com/kata/5264d2b162488dc400000001
+7) Maximum subarray sum [5kyu] https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c
