@@ -7,3 +7,4 @@ Here you can find the links related to the problems, the file will be updated co
 6) Stop gninnipS My sdroW! [6kyu] https://www.codewars.com/kata/5264d2b162488dc400000001
 7) Maximum subarray sum [5kyu] https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c
 8) Consecutive strings [6kyu] https://www.codewars.com/kata/56a5d994ac971f1ac500003e
+9) Simple Encryption #1 - Alternating Split [6kyu] https://www.codewars.com/kata/57814d79a56c88e3e0000786
